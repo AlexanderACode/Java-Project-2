@@ -1,0 +1,7 @@
+background.png
+boss.png
+enemy.png
+laser.png
+obstacle.png
+pooper.png
+runner.png
